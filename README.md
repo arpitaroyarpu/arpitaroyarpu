@@ -1,4 +1,4 @@
-<img src="https://github.com/arpitaroyarpu/arpitaroyarpu/blob/main/images.jfif" alt="logo" width="200" height="500">
+<img src="https://github.com/arpitaroyarpu/arpitaroyarpu/blob/main/images.jfif" alt="logo" width="700" height="200">
 
 <h1 align="center">Hi 👋, I'm Arpita Roy</h1>
 <h3 align="center">A passionate Web Development and Cybersecurity from Bangladesh.</h3>
